@@ -66,6 +66,3 @@ function getPrevImg(){
     }
 }
 $(".arrow1").on("click",getPrevImg);
-
-let parent = $(".main_img").parent();
-console.log(parent);
